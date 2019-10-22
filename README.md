@@ -16,8 +16,10 @@ In this repository, we explore themes 1 and 4. The code for generating these ind
 ## Theme 1: Emerging Technologies
 
 1) Levels of AI activity in academic literature
+
     a) [National](theme_1/ai_activity/national_ai_activity.ipynb)
-    b) [Regional](theme_1/ai_activity/regional_ai_activity.ipynb)
+    
+    b) [Regional](theme_1/ai_activity/regional_ai_activity.ipynb) 
 2) [Concentration of AI activity (subnational)](theme_1/ai_activity/subnational_concentration.ipynb)
 3) Distribution of emergent technology in industry
 4) Technological transformation
@@ -25,7 +27,9 @@ In this repository, we explore themes 1 and 4. The code for generating these ind
 ## Theme 4: Inclusive and missions
 
 1) Activity by mission:
+
     a) [National](theme_4/activity/national_mission_activity.ipynb)
+    
     b) [Regional](theme_4/activity/regional_mission_activity.ipynb)
 2) Actors in mission fields.
 3) Novelty of actors in mission fields.
